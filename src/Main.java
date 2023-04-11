@@ -1,6 +1,6 @@
 import javax.swing.*;
 /**
- * @author Monika Trybula, 184842, Telekomunikacja, Grupa 1
+ * @author Monika Trybula
  */
 
 /**
