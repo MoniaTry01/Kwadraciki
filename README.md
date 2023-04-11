@@ -7,7 +7,7 @@ Java 16
 
 
 How to run the program?
-Unpack the project and run src/main.java
+Unpack the project and run src/Main.java
 
 
 Project description:
